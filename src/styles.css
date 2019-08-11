@@ -1,10 +1,39 @@
-.App {
-  font-family: sans-serif;
+body {
   text-align: center;
-}
-
-.App {
   background: url("/pannorosso.png");
   background-attachment: fixed;
   background-repeat: repeat;
+}
+
+h1 {
+  font-family: "Parisienne", cursive;
+}
+
+.mainapp {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: block;
+  width: 50vw;
+  height: 50vh;
+}
+
+.maincontainer {
+  display: flex;
+  align-items: stretch;
+  justify-content: stretch;
+  flex-direction: column;
+  text-align: center;
+  font-size: 1.4rem !important;
+  width: fit-content;
+  position: absolute;
+  height: fit-content;
+  line-height: 1.3rem;
+  border-style: solid;
+  border-color: white;
+  border-width: 10px;
+  border-radius: 15px;
 }

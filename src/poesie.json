@@ -1,0 +1,31 @@
+{
+  "poesie": [
+    {
+      "titolo": "Mattina",
+      "autore": "Giuseppe Ungaretti",
+      "strofe": ["M'illumino d'immenso"]
+    },
+    {
+      "titolo": "Veglia",
+      "autore": "Giuseppe Ungaretti",
+      "strofe": [
+        "Un’intera nottata",
+        "buttato vicino",
+        "a un compagno",
+        "massacrato",
+        "con la sua bocca",
+        "digrignata",
+        "volta al plenilunio",
+        "con la congestioni",
+        "delle sue mani",
+        "penetrata",
+        "nel mio silenzio",
+        "ho scritto",
+        "lettere piene d’amore",
+        "non sono mai stato",
+        "tanto",
+        "attaccato alla vita"
+      ]
+    }
+  ]
+}
