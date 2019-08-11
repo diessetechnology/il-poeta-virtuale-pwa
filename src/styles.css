@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.App {
+  background: url("/pannorosso.png");
+  background-attachment: fixed;
+  background-repeat: repeat;
+}
