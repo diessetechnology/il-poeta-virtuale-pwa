@@ -4,7 +4,7 @@ import { Input, Button } from "semantic-ui-react";
 import "semantic-ui-css/semantic.min.css";
 import "./styles.css";
 import poesie from "./poesie.json";
-const serviceWorker = require("./serviceWorker");
+import * as serviceWorker from "./serviceWorker";
 const speechSynthesis = require("speech-synthesis");
 class App extends Component {
   constructor(props) {
