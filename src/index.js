@@ -1,11 +1,10 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import { Input, Button } from "semantic-ui-react";
-var speechSynthesis = require("speech-synthesis");
 import "semantic-ui-css/semantic.min.css";
 import "./styles.css";
 import poesie from "./poesie.json";
-
+var speechSynthesis = require("speech-synthesis");
 class App extends Component {
   constructor(props) {
     super(props);
