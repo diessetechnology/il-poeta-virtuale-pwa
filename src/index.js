@@ -4,7 +4,8 @@ import { Input, Button } from "semantic-ui-react";
 import "semantic-ui-css/semantic.min.css";
 import "./styles.css";
 import poesie from "./poesie.json";
-var speechSynthesis = require("speech-synthesis");
+const serviceWorker = require("./serviceWorker");
+const speechSynthesis = require("speech-synthesis");
 class App extends Component {
   constructor(props) {
     super(props);
@@ -80,3 +81,4 @@ class App extends Component {
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(<App />, rootElement);
+serviceWorker.register();
