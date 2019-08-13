@@ -1,5 +1,6 @@
 # Il poeta virtuale
 ![GitHub](https://img.shields.io/github/license/diessetechnology/il-poeta-virtuale-pwa?label=Licenza&style=plastic)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fd2f0c33eee5415f82b874ef832737f6)](https://app.codacy.com/app/diessetechnology/il-poeta-virtuale-pwa?utm_source=github.com&utm_medium=referral&utm_content=diessetechnology/il-poeta-virtuale-pwa&utm_campaign=Badge_Grade_Settings)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7a0d27bd-433e-4f28-9aa0-8daa3355241c/deploy-status)](https://app.netlify.com/sites/ilpoetavirtuale/deploys)
 ![Website](https://img.shields.io/website/https/ilpoetavirtuale.netlify.com?down_message=Il%20poeta%20%C3%A8%20acciaccato&label=Salute%20del%20poeta%20virtuale%20%28il%20sito%20%C3%A8%20online%3F%29&up_message=Il%20poeta%20%C3%A8%20in%20salute)
 [![CodeFactor](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa/badge)](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa)
