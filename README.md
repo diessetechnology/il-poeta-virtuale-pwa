@@ -5,5 +5,28 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa/badge)](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa)
 [![Maintainability](https://api.codeclimate.com/v1/badges/75edddb3a3803cc34def/maintainability)](https://codeclimate.com/github/diessetechnology/il-poeta-virtuale-pwa/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bce9fc0efb24a7f855eb3da46e55751)](https://www.codacy.com/app/diessetechnology/il-poeta-virtuale-pwa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=diessetechnology/il-poeta-virtuale-pwa&amp;utm_campaign=Badge_Grade)
+[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/diessetechnology)
 
 Dagli il titolo di una poesia...e questo programma te la reciterà strofa per strofa!
+
+Questo programma è un esperimento di progressive web app scritto in due giorni,
+
+
+
+Lo stack:
+
+- React per il frontend (no,niente redux)
+- Semantic UI per il css (A mio parere uno dei migliori framework)
+- Netlify,per l'hosting della progressive web app
+
+
+
+Questa applicazione per ora è disponibile solo in Italiano,perchè le poesie nel database sono in lingua italiana,e io non ho intenzione di tradurla in inglese poichè ho progetti più grandi da continuare...
+
+Ma il codice è sotto licenza MIT,quindi se qualcuno ha voglia di migliorare il programma,aggiungere poesie e magari tradurre questa PWA...e ben accetto e sarà incluso nei ringraziamenti...Io cercherò di aggiornarlo quando possibile...
+
+Il punteggio su Lighthouse è quasi perfetto,e il punteggio PWA è a 100.
+
+Se vi è piaciuta l'applicazione potete considerare una donazione tramite Patreon,il badge è sopra...
+
+Godetevi il vostro Poeta Virtuale!
