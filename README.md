@@ -4,5 +4,6 @@
 ![Website](https://img.shields.io/website/https/ilpoetavirtuale.netlify.com?down_message=Il%20poeta%20%C3%A8%20acciaccato&label=Salute%20del%20poeta%20virtuale%20%28il%20sito%20%C3%A8%20online%3F%29&up_message=Il%20poeta%20%C3%A8%20in%20salute)
 [![CodeFactor](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa/badge)](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa)
 [![Maintainability](https://api.codeclimate.com/v1/badges/75edddb3a3803cc34def/maintainability)](https://codeclimate.com/github/diessetechnology/il-poeta-virtuale-pwa/maintainability)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bce9fc0efb24a7f855eb3da46e55751)](https://www.codacy.com/app/diessetechnology/il-poeta-virtuale-pwa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=diessetechnology/il-poeta-virtuale-pwa&amp;utm_campaign=Badge_Grade)
 
 Dagli il titolo di una poesia...e questo programma te la reciterà strofa per strofa!
