@@ -10,7 +10,8 @@
     "react-scripts": "3.0.1",
     "semantic-ui-css": "2.4.1",
     "semantic-ui-react": "0.87.3",
-    "speech-synthesis": "0.3.2"
+    "speech-synthesis": "0.3.2",
+    "webfontloader": "^1.6.28"
   },
   "devDependencies": {
     "typescript": "3.3.3"

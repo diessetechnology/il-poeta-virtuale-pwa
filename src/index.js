@@ -3,9 +3,17 @@ import ReactDOM from "react-dom";
 import { Input, Button } from "semantic-ui-react";
 import "semantic-ui-css/components/button.min.css";
 import "semantic-ui-css/components/input.min.css";
+import "semantic-ui-css/components/site.min.css";
 import "./styles.css";
 import poesie from "./poesie.json";
 import * as serviceWorker from "./serviceWorker";
+import WebFont from 'webfontloader';
+
+WebFont.load({
+  google: {
+    families: ['Parisienne', 'cursive']
+  }
+});
 const speechSynthesis = require("speech-synthesis");
 class App extends Component {
   constructor(props) {
