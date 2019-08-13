@@ -5,7 +5,6 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa/badge)](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa)
 [![Maintainability](https://api.codeclimate.com/v1/badges/75edddb3a3803cc34def/maintainability)](https://codeclimate.com/github/diessetechnology/il-poeta-virtuale-pwa/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bce9fc0efb24a7f855eb3da46e55751)](https://www.codacy.com/app/diessetechnology/il-poeta-virtuale-pwa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=diessetechnology/il-poeta-virtuale-pwa&amp;utm_campaign=Badge_Grade)
-[![Patreon](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/diessetechnology)
 
 Dagli il titolo di una poesia...e questo programma te la reciterà strofa per strofa!
 
