@@ -1,2 +1,6 @@
 .gitignore
 .folio
+node_modules
+.netlify
+build
+netlify.toml
