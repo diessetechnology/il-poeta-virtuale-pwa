@@ -50,7 +50,7 @@ class App extends Component {
               onChange={this.onchange}
               size="big"
               style={{
-                width: "100%"
+                minWidth:"100%"
               }}
             />
             <div>
@@ -61,18 +61,19 @@ class App extends Component {
             <Button
               onClick={this.recita}
               style={{
-                width: "100%"
+                minWidth: "100%"
               }}
             >
               Recita questa poesia!
             </Button>
           </div>
         </div>
-        <div className="footer">
-          <h2 style={{ fontSize: "1.5rem" }}>
+        <div className="footer sticky-footer">
+          <h1 style={{ fontSize: "1.3rem" }}>Il poeta virtuale</h1>
+          <h2 style={{ fontSize: "0.8rem" }}>
             Webapp sviluppata da Davide Salamino
           </h2>
-          <h3 style={{ fontSize: "1.5rem" }}>Open Source sotto licenza MIT</h3>
+          <h3 style={{ fontSize: "0.9rem" }}>Open Source sotto licenza MIT</h3>
         </div>
       </div>
     );
