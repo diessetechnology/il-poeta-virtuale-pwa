@@ -3,7 +3,9 @@
     {
       "titolo": "Mattina",
       "autore": "Giuseppe Ungaretti",
-      "strofe": ["M'illumino d'immenso"]
+      "strofe": [
+        "M'illumino d'immenso"
+      ]
     },
     {
       "titolo": "Veglia",
@@ -50,7 +52,45 @@
     {
       "titolo": "Il Cinque Maggio",
       "autore": "Alessandro Manzoni",
-      "strofe":["Ei fu. Siccome immobile,","dato il fatal sospiro,","stette la salma immemore,","orba di tanto spiro,","Tale al tonante annunzio","Muta la terra sta,","Trema la terra e sta.","Così percossa, attonita","La terra al nunzio sta.","Che innanzi a lui già tacquesi,","che lo nomò fatale","Né sa quando una simile","Orma di piè mortale","La sua cruenta polvere","A calpestar verrà."]
+      "strofe": [
+        "Ei fu. Siccome immobile,",
+        "dato il fatal sospiro,",
+        "stette la salma immemore,",
+        "orba di tanto spiro,",
+        "Tale al tonante annunzio",
+        "Muta la terra sta,",
+        "Trema la terra e sta.",
+        "Così percossa, attonita",
+        "La terra al nunzio sta.",
+        "Che innanzi a lui già tacquesi,",
+        "che lo nomò fatale",
+        "Né sa quando una simile",
+        "Orma di piè mortale",
+        "La sua cruenta polvere",
+        "A calpestar verrà."
+      ]
+    },
+    {
+      "titolo": "Alla Luna",
+      "autore": "Giacomo Leopardi",
+      "strofe": [
+        "O graziosa luna, io mi rammento",
+        "che, or volge l'anno, sovra questo colle",
+        "io venia pien d'angoscia a rimirarti:",
+        "e tu pendevi allor su quella selva",
+        "siccome or fai, che tutta la rischiari.",
+        "Ma nebuloso e tremulo dal pianto",
+        "che mi sorgea sul ciglio, alle mie luci",
+        "il tuo volto apparia, ché travagliosa",
+        "era mia vita: ed è, né cangia stile,",
+        "o mia diletta luna. E pur mi giova",
+        "la ricordanza, e il noverar l'etate",
+        "del mio dolore. Oh come grato occorre",
+        "nel tempo giovanil, quando ancor lungo",
+        "la speme e breve ha la memoria il corso,",
+        "il rimembrar delle passate cose,",
+        "ancor che triste, e che l'affanno duri!"
+      ]
     }
   ]
 }
