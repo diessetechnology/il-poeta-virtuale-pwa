@@ -11,7 +11,7 @@ import WebFont from 'webfontloader';
 
 WebFont.load({
   google: {
-    families: ['Parisienne', 'cursive']
+    families: ['Parisienne&display=swap']
   }
 });
 const speechSynthesis = require("speech-synthesis");
