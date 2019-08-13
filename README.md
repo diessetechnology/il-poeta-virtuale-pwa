@@ -5,7 +5,7 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa/badge)](https://www.codefactor.io/repository/github/diessetechnology/il-poeta-virtuale-pwa)
 [![Maintainability](https://api.codeclimate.com/v1/badges/75edddb3a3803cc34def/maintainability)](https://codeclimate.com/github/diessetechnology/il-poeta-virtuale-pwa/maintainability)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9bce9fc0efb24a7f855eb3da46e55751)](https://www.codacy.com/app/diessetechnology/il-poeta-virtuale-pwa?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=diessetechnology/il-poeta-virtuale-pwa&amp;utm_campaign=Badge_Grade)
-[![DeepScan grade](https://deepscan.io/api/teams/5028/projects/6822/branches/59332/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=5028&pid=6822&bid=59332)
+[![Depfu](https://badges.depfu.com/badges/8f20735ab92f837de92bbb2b2b0b193c/overview.svg)](https://depfu.com/github/diessetechnology/il-poeta-virtuale-pwa?project_id=8758)
 [![Depfu](https://badges.depfu.com/badges/8f20735ab92f837de92bbb2b2b0b193c/count.svg)](https://depfu.com/github/diessetechnology/il-poeta-virtuale-pwa?project_id=8758)
 
 Dagli il titolo di una poesia...e questo programma te la reciterà strofa per strofa!
