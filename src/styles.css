@@ -56,18 +56,6 @@ html {
 }
 
 @media (min-width: 1281px) {
-  .center-div-error {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    border-radius: 3px;
-    display: block;
-    width: 65vw;
-    height: 50vh;
-  }
 
   .mainapp {
     position: absolute;
@@ -88,19 +76,6 @@ html {
 */
 
 @media (min-width: 1025px) and (max-width: 1280px) {
-  .center-div-error {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    border-radius: 3px;
-    display: block;
-    width: 65vw;
-    height: 0;
-    padding-bottom: 56.25%;
-  }
 
   .mainapp {
     position: absolute;
@@ -121,18 +96,6 @@ html {
 */
 
 @media (min-width: 768px) and (max-width: 1024px) {
-  .center-div-error {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    border-radius: 3px;
-    display: block;
-    width: 50vw;
-    height: 50vh;
-  }
 
   .mainapp {
     position: absolute;
@@ -153,18 +116,6 @@ html {
 */
 
 @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  .center-div-error {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    border-radius: 3px;
-    display: block;
-    width: 50vw;
-    height: 50vh;
-  }
 
   .mainapp {
     position: absolute;
@@ -185,18 +136,6 @@ html {
 */
 
 @media (min-width: 481px) and (max-width: 767px) {
-  .center-div-error {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    border-radius: 3px;
-    display: block;
-    width: 90vw;
-    height: 90vh;
-  }
 
   .mainapp {
     position: absolute;
@@ -217,18 +156,6 @@ html {
 */
 
 @media (min-width: 320px) and (max-width: 480px) {
-  .center-div-error {
-    position: absolute;
-    margin: auto;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    border-radius: 3px;
-    display: block;
-    width: 90vw;
-    height: 90vh;
-  }
 
   .mainapp {
     margin: auto;
@@ -237,13 +164,6 @@ html {
     width: 70vw;
     height: 70vh;
   }
-}
-
-.centercon {
-  padding-top: 4px;
-  padding-bottom: 4px;
-  display: block;
-  margin: auto;
 }
 
 .footer {
