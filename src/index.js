@@ -28,9 +28,7 @@ class App extends Component {
 
   async recita(e) {
     e.preventDefault();
-    await this.setState({
-      poesia_recitata: []
-    });
+    this.state.poesia_recitata.length = 0;
     // returns a boolean
     for (const poesia of poesie.poesie) {
       if (poesia.titolo.toLowerCase() === this.state.ricerca.toLowerCase()) {
