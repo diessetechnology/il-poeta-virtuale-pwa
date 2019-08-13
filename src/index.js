@@ -49,6 +49,7 @@ class App extends Component {
               value={this.state.ricerca}
               onChange={this.onchange}
               size="big"
+              aria-label="Titolo della poesia"
               style={{
                 minWidth:"100%"
               }}
