@@ -1,7 +1,8 @@
 import React, { Component } from "react";
 import ReactDOM from "react-dom";
 import { Input, Button } from "semantic-ui-react";
-import "semantic-ui-css/semantic.min.css";
+import "semantic-ui-css/components/button.min.css";
+import "semantic-ui-css/components/input.min.css";
 import "./styles.css";
 import poesie from "./poesie.json";
 import * as serviceWorker from "./serviceWorker";
