@@ -30,6 +30,4 @@ Ma il codice è sotto licenza MIT,quindi se qualcuno ha voglia di migliorare il 
 
 Il punteggio su Lighthouse è quasi perfetto,e il punteggio PWA è a 100.
 
-Se vi è piaciuta l'applicazione potete considerare una donazione tramite Patreon,il badge è sopra...
-
 Godetevi il vostro Poeta Virtuale!
