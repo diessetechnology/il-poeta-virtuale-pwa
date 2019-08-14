@@ -20,6 +20,8 @@ Lo stack:
 
 - React per il frontend (no,niente redux)
 - Semantic UI per il css (A mio parere uno dei migliori framework)
+- speech-syntesis per far parlare la PWA
+- webfontloader per caricare il font usato nella poesia da Google Font (Il font è Parisienne)
 - Netlify,per l'hosting della progressive web app
 
 
@@ -29,7 +31,5 @@ Questa applicazione per ora è disponibile solo in Italiano,perchè le poesie ne
 Ma il codice è sotto licenza MIT,quindi se qualcuno ha voglia di migliorare il programma,aggiungere poesie e magari tradurre questa PWA...è ben accetto e sarà incluso nei ringraziamenti...Io cercherò di aggiornarlo quando possibile...
 
 Il punteggio su Lighthouse è quasi perfetto,e il punteggio PWA è a 100.
-
-Se vi è piaciuta l'applicazione potete considerare una donazione tramite Patreon,il badge è sopra...
 
 Godetevi il vostro Poeta Virtuale!
