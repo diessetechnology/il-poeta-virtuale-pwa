@@ -30,6 +30,36 @@ Questa applicazione per ora è disponibile solo in Italiano,perchè le poesie ne
 
 Ma il codice è sotto licenza MIT,quindi se qualcuno ha voglia di migliorare il programma,aggiungere poesie e magari tradurre questa PWA...è ben accetto e sarà incluso nei ringraziamenti...Io cercherò di aggiornarlo quando possibile...
 
+
+
+Per aggiungere delle poesie,basta modificare il file poesie.json all'interno di src
+
+```json
+{
+  "poesie": [
+    {
+      "titolo": "Mattina",
+      "autore": "Giuseppe Ungaretti",
+      "strofe": [
+        "M'illumino d'immenso"
+      ]
+    },
+      ...
+      ...
+  ]
+}
+```
+
+aggiungendo una poesia in questo formato
+
+```
+{
+  "titolo": "Titolo della poesia",
+  "autore": "Autore della poesia",
+  "strofe":["Strofa 1","Strofa 2","ecc","ecc"]
+}
+```
+
 Il punteggio su Lighthouse è quasi perfetto,e il punteggio PWA è a 100.
 
 Godetevi il vostro Poeta Virtuale!
