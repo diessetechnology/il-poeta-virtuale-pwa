@@ -43,13 +43,11 @@ Per aggiungere delle poesie,basta modificare il file poesie.json all'interno di 
         "M'illumino d'immenso"
       ]
     },
-      ...
-      ...
   ]
 }
 ```
 
-aggiungendo una poesia in questo formato
+aggiungendo una poesia all'array poesie in questo formato
 
 ```
 {
