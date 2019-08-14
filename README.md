@@ -20,6 +20,8 @@ Lo stack:
 
 - React per il frontend (no,niente redux)
 - Semantic UI per il css (A mio parere uno dei migliori framework)
+- speech-syntesis per far parlare la PWA
+- webfontloader per caricare il font usato nella poesia da Google Font (Il font è Parisienne)
 - Netlify,per l'hosting della progressive web app
 
 
