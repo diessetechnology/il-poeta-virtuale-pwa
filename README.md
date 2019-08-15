@@ -7,6 +7,7 @@
 [![Depfu](https://badges.depfu.com/badges/8f20735ab92f837de92bbb2b2b0b193c/overview.svg)](https://depfu.com/github/diessetechnology/il-poeta-virtuale-pwa?project_id=8758)
 [![Depfu](https://badges.depfu.com/badges/8f20735ab92f837de92bbb2b2b0b193c/count.svg)](https://depfu.com/github/diessetechnology/il-poeta-virtuale-pwa?project_id=8758)
 [![DepShield Badge](https://depshield.sonatype.org/badges/diessetechnology/il-poeta-virtuale-pwa/depshield.svg)](https://depshield.github.io)
+[![Known Vulnerabilities](https://snyk.io//test/github/diessetechnology/il-poeta-virtuale-pwa/badge.svg?targetFile=package.json)](https://snyk.io//test/github/diessetechnology/il-poeta-virtuale-pwa?targetFile=package.json)
 
 
 Dagli il titolo di una poesia...e questo programma te la reciterà strofa per strofa!
