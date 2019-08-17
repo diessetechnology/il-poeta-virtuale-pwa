@@ -24,8 +24,9 @@ steps:
     cwd: '.'
 
 - script: |
+    export PERCY_TOKEN=$(PERCY_TOKEN)
     npm run build
     percy snapshot build
-  displayName: 'npm install and build'
+  displayName: 'Percy Testing'
 
 
