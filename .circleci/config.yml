@@ -10,7 +10,7 @@ jobs:
           name: install dependencies
           command: |
             npm install
-            sudo npm install -g percy
+            npm install --save-dev percy
 
       - run:
           name: run our tests
