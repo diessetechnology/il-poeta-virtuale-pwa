@@ -16,4 +16,4 @@ jobs:
           name: run our tests
           command: |
             npm run build
-            percy snapshot build
+            npx percy snapshot build
