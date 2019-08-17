@@ -9,8 +9,6 @@ trigger:
 pool:
    name: "Default"
 
-variables:
-  PERCY_TOKEN: $(PERCY_TOKEN)
 
 steps:
 - task: NodeTool@0
