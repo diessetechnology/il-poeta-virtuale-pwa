@@ -1,0 +1,19 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:7.10
+    working_directory: ~/repo
+    steps:
+      - checkout
+      - run:
+          name: install dependencies
+          command: |
+            npm install
+            npm install -g percy
+
+      - run:
+          name: run our tests
+          command: |
+            npm run build
+            percy snapshot build
