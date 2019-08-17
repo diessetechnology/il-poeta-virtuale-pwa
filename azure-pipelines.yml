@@ -15,8 +15,17 @@ steps:
     versionSpec: '10.x'
   displayName: 'Install Node.js'
 
+- task: Npm@1
+  inputs:
+    command: 'install'
+
+- task: WhiteSource Bolt@19
+  inputs:
+    cwd: '.'
+
 - script: |
-    npm install
     npm run build
+    percy snapshot build
   displayName: 'npm install and build'
+
 
