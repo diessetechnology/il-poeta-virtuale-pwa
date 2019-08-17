@@ -27,6 +27,8 @@ steps:
 - script: |
     npm run build
     percy snapshot build
+  env:
+    PERCY_TOKEN: $(PERCY_TOKEN)
   displayName: 'Percy Testing'
 
 
