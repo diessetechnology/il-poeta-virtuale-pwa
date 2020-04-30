@@ -11,7 +11,8 @@
     "semantic-ui-css": "2.4.1",
     "semantic-ui-react": "0.87.3",
     "speech-synthesis": "0.3.2",
-    "webfontloader": "^1.6.28"
+    "webfontloader": "^1.6.28",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "typescript": "3.3.3"
@@ -20,12 +21,15 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "snyk-protect": "snyk protect",
+    "prepare": "yarn run snyk-protect"
   },
   "browserslist": [
     ">0.2%",
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "snyk": true
 }
